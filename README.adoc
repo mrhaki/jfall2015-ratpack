@@ -1,4 +1,4 @@
-= JFall 2015 Ratpach talk
+= JFall 2015 Ratpack talk
 
 This repository contains the presentation and example code for the
 talk "Building Asynchronous and Non-Blocking HTTP Applications with Ratpack".
