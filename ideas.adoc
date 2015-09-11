@@ -1,0 +1,8 @@
+= Ideas
+
+* Explain Ratpack (15 min)
+* Showing sample application (5 min)
+* Build sample application (30 min)
+** Gradle build (dependencies)
+** Simple controller
+** Security
